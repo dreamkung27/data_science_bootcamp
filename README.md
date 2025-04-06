@@ -11,4 +11,4 @@ my data science and analytic projects
 reach out to me at theerapatdream@gmail.com
 
 ## Image
-![]([image URL](https://www.rover.com/blog/wp-content/uploads/cat-breathing-fast-orange-kitten-960x540.jpg))
+![](https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2024/december/ginger-cat-generic-adobe-images.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg)
