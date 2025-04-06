@@ -11,4 +11,4 @@ my data science and analytic projects
 reach out to me at theerapatdream@gmail.com
 
 ## Image
-![](https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2024/december/ginger-cat-generic-adobe-images.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg)
+![orange_cat](https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2024/december/ginger-cat-generic-adobe-images.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg)
