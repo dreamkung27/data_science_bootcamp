@@ -6,6 +6,13 @@ my data science and analytic projects
 1. SQL supermarket analysis
 2. R programing
 
+## In line code
+I'm `Batman`
+
+## code block
+```sql
+SELECT "hello world" FROM bootcamp:
+```
 
 ## Contact Me
 reach out to me at theerapatdream@gmail.com
